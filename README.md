@@ -8,7 +8,7 @@ Estou me desenvolvendo na linguagem JavaScript
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 <!--
-![](link)![SimsCatYuumiGIF](https://github.com/user-attachments/assets/2fec9beb-62e1-4687-9fb7-65ce2bf9d374)
+![SimsCatYuumiGIF](https://github.com/user-attachments/assets/2fec9beb-62e1-4687-9fb7-65ce2bf9d374)
 
 **anachinchio/anachinchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
