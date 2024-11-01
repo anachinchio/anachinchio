@@ -1,4 +1,4 @@
-## Welcome to my profile👋
+## Welcome to my profile 😎
 
 Meu nome é Ana Clara Chinchio
 
@@ -8,7 +8,8 @@ Estou me desenvolvendo na linguagem JavaScript
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 <!--
-![](https://media1.tenor.com/m/JTS-f7DUT-gAAAAd/lol.gif)
+![](link)![SimsCatYuumiGIF](https://github.com/user-attachments/assets/2fec9beb-62e1-4687-9fb7-65ce2bf9d374)
+
 **anachinchio/anachinchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
